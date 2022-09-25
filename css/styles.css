@@ -1,0 +1,218 @@
+
+hr {background-color:white;
+    border-style: dotted none none;
+    border-width: 5px ;
+    border-color:darkgreen;
+    height: 0px;
+    width: 30%;
+    }
+    
+
+
+    h1 {
+        background-color: #e4f9f5;
+        color:darkgreen;
+        border-radius: 0%;
+        text-align: center;
+        width: 100%;
+    }
+
+     h1:hover{background-color: aquamarine;}
+    
+
+img{ 
+width: 50%;
+border-radius:5%;
+border-width: 6px;
+border-style:solid;
+border-color:white}
+
+img:hover
+{
+         border-radius:1% ;
+
+
+}
+
+.intro {width:60%}
+
+
+.myimg {width:57%;
+border-radius: 100%;
+}
+
+.myimg:hover {border-radius: 25%;
+}
+
+body {
+
+    background-color: white;
+    text-align: center;
+
+
+}
+
+
+
+    form {
+
+        border-style: none;
+        border-color: lightcoral;
+        border-width: 5px;
+        border-radius: 5%;
+        background-color:#e4f9f5;
+        width: 80%;
+    }
+
+
+ p {
+    text-align: center;
+    width: 75%;
+    color: darkgreen;
+
+ }
+
+
+
+
+ ul {
+    width:70%;
+    text-align: left;
+ }
+
+
+
+
+
+ .top {
+    
+    height: 100%;
+    width: 100%;
+ background-color:#f0f2b6;
+ border-style: ridge;
+ border-width: 0px ;
+ border-color: darkgreen;
+ padding: 1px;
+margin: 0%;
+
+ }
+
+ .toppest {
+    
+    height: 4px;
+    width: 100%;
+ background-color:#e4f9f5;
+ border-style: ridge;
+ border-width: 0px ;
+ border-color: darkgreen;
+ padding: 1px;
+margin: 0%;
+
+ }
+
+
+ .centerone {
+    height: 100%;
+    width: 100%;
+    background-color: lightyellow;
+
+   
+  ;
+
+ }
+
+ .me {
+
+margin-top: 1%;
+margin-bottom: 0%;
+width: 90%;
+background-color: #f0f2b6;
+}
+
+
+.me:hover{
+    background-color: #e4f9f5;
+    
+
+}
+
+
+
+
+ .ibottom {
+
+    margin-top: 5%;
+    
+    margin-bottom: 0%;
+    width: 100%;
+    font-style: italic;
+   
+    
+ }
+
+table {
+width: 80%;
+height: 100%;
+padding: 0%;
+border-style: solid;
+border-width: 0px;
+border-color: darkolivegreen;
+border-radius: 1%;
+background-color: #f0f2b6 ;
+}
+
+
+
+.maintab
+{
+border-style: none;
+background-color:#f0f2b6;
+
+
+}
+
+.mecenter{
+
+   background-color:lightyellow;
+   margin: 0%;
+}
+
+
+.centertwo{
+   
+   height: 100%;
+   width: 100%;
+background-color:#f0f2b6;
+border-style: ridge;
+border-width: 0px ;
+border-color: darkgreen;
+padding: 2px;
+margin: 0%;
+}
+
+
+
+.centerthree{
+   
+   height: 100%;
+   width: 100%;
+background-color:rgb(236, 255, 248);
+border-style: ridge;
+border-width: 0px ;
+border-color: darkgreen;
+padding: 1px;
+margin: 0%;
+}
+
+h2 
+{
+   color: darkgreen;
+}
+
+.bottom {
+   background-color:rgb(250, 255, 238);
+}
+
+.subsimg {
+   width: 30%;
+}
