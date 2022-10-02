@@ -1,10 +1,11 @@
 
-hr {background-color:white;
+hr {background-color: none;
     border-style: dotted none none;
-    border-width: 5px ;
+    border-width: 10px ;
     border-color:darkgreen;
     height: 0px;
     width: 30%;
+    margin-top: 2%;
     }
     
 
@@ -21,7 +22,7 @@ hr {background-color:white;
     
 
 img{ 
-width: 50%;
+width: 60%;
 border-radius:5%;
 border-width: 6px;
 border-style:solid;
@@ -37,7 +38,7 @@ img:hover
 .intro {width:60%}
 
 
-.myimg {width:57%;
+.myimg {width:100%;
 border-radius: 100%;
 }
 
@@ -80,26 +81,37 @@ body {
     text-align: left;
  }
 
+ .mainul {
+
+  width:80%;
+  text-align: left;
+  color: darkgreen;
+  margin: 5%;
+
+
+
+ }
+
 
 
 
 
  .top {
     
-    height: 100%;
+    height: 30%;
     width: 100%;
  background-color:#f0f2b6;
  border-style: ridge;
  border-width: 0px ;
  border-color: darkgreen;
- padding: 1px;
+ padding: 0%;
 margin: 0%;
 
  }
 
  .toppest {
     
-    height: 4px;
+    height: 0px;
     width: 100%;
  background-color:#e4f9f5;
  border-style: ridge;
@@ -123,9 +135,9 @@ margin: 0%;
 
  .me {
 
-margin-top: 1%;
+margin-top: 0%;
 margin-bottom: 0%;
-width: 90%;
+width: 100%;
 background-color: #f0f2b6;
 }
 
@@ -158,7 +170,7 @@ border-style: solid;
 border-width: 0px;
 border-color: darkolivegreen;
 border-radius: 1%;
-background-color: #f0f2b6 ;
+background-color: #f2f2f2;
 }
 
 
@@ -166,7 +178,22 @@ background-color: #f0f2b6 ;
 .maintab
 {
 border-style: none;
-background-color:#f0f2b6;
+border-radius: 7%;
+background-color:#e0f3fb;
+padding: 0%;
+margin-right:0% ;
+width: 90%;
+
+
+
+}
+
+
+
+.hilight {
+
+background-color: #64faff;
+border-radius: 6%;
 
 
 }
@@ -182,7 +209,7 @@ background-color:#f0f2b6;
    
    height: 100%;
    width: 100%;
-background-color:#f0f2b6;
+background-color:#f2f2f2;
 border-style: ridge;
 border-width: 0px ;
 border-color: darkgreen;
@@ -196,7 +223,7 @@ margin: 0%;
    
    height: 100%;
    width: 100%;
-background-color:rgb(236, 255, 248);
+background-color:#9cd3d8;
 border-style: ridge;
 border-width: 0px ;
 border-color: darkgreen;
