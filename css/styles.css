@@ -4,7 +4,7 @@ hr {background-color: none;
     border-width: 10px ;
     border-color:darkgreen;
     height: 0px;
-    width: 30%;
+    width: 50%;
     margin-top: 2%;
     }
     
@@ -35,16 +35,6 @@ img:hover
 
 }
 
-.intro {width:60%}
-
-
-.myimg {width:100%;
-border-radius: 100%;
-}
-
-.myimg:hover {border-radius: 25%;
-}
-
 body {
 
     background-color: white;
@@ -68,8 +58,9 @@ body {
 
  p {
     text-align: center;
-    width: 75%;
+    width: 92%;
     color: darkgreen;
+    line-height: 1.5
 
  }
 
@@ -77,19 +68,48 @@ body {
 
 
  ul {
-    width:70%;
+    width:80%;
     text-align: left;
  }
 
  .mainul {
 
-  width:80%;
+  width:90%;
   text-align: left;
   color: darkgreen;
-  margin: 5%;
+  margin: 4%;
+  padding-right: 5%;
+padding-top: 1%;
+padding-bottom: 1%;
 
 
 
+ }
+
+
+
+
+
+ .btn {
+   -webkit-border-radius: 28;
+   -moz-border-radius: 28;
+   border-radius: 28px;
+   -webkit-box-shadow: 0px 0px 30px #7585ff;
+   -moz-box-shadow: 0px 0px 30px #7585ff;
+   box-shadow: 0px 0px 30px #7585ff;
+   font-family: Arial;
+   color: #ffffff;
+   font-size: 15px;
+   background: #a3aeff;
+   padding: 20px 20px 20px 20px;
+   text-decoration: none;
+   font-weight: bolder;
+ }
+ 
+ .btn:hover {
+   background: #8891eb;
+   text-decoration: none;
+   font-weight: bolder;
  }
 
 
@@ -149,7 +169,7 @@ padding: 5% 0% 5% 0% ;
 
  .ibottom {
 
-    margin-top: 3%;
+    margin-top: 5%;
     
     margin-bottom: 0%;
     width: 90%;
@@ -160,7 +180,7 @@ padding: 5% 0% 5% 0% ;
 
 table {
    text-align: center;
-width: 80%;
+width: 90%;
 height: 100%;
 padding: 0%;
 border-style: solid;
@@ -175,11 +195,14 @@ background-color: #f2f2f2;
 .maintab
 {
 border-style: none;
-border-radius: 7%;
+border-radius: 0%;
 background-color:#e0f3fb;
-padding: 0%;
+padding-right: 5%;
+padding-top: 5%;
+padding-bottom: 5%;
 margin-right:0% ;
-width: 90%;
+width: 95%;
+line-height: 1.5;
 
  
 
@@ -232,7 +255,8 @@ margin: 0%;
 }
 
 h2 
-{
+{   
+
    color: darkgreen;
 }
 
@@ -243,3 +267,54 @@ h2
 .subsimg {
    width: 30%;
 }
+
+h3 {background-color: rgb(230, 255, 247);
+    color: darkgreen;
+   padding: 4%;}
+
+
+
+.ibottom2  { color: darkgreen;
+    text-align: left;
+
+    font-weight: bold;
+
+    line-height: 1.5;
+
+
+}
+
+
+h4     {
+   color: darkgreen;
+  padding: 2%;
+ text-align: left;
+  width: 80%;
+}
+
+
+
+
+
+
+.btn2 {
+   -webkit-border-radius: 60;
+   -moz-border-radius: 60;
+   border-radius: 60px;
+   -webkit-box-shadow: 0px 3px 30px #ff0000;
+   -moz-box-shadow: 0px 3px 30px #ff0000;
+   box-shadow: 0px 3px 30px #ff0000;
+   font-family: Arial;
+   color: #ffffff;
+   font-size: 14px;
+   background: #ff2121;
+   padding: 20px 20px 20px 20px;
+   text-decoration: none;
+   font-weight: bolder;
+ }
+ 
+ .btn2:hover {
+   background: #ff520d;
+   text-decoration: none;
+   font-weight: bolder;
+ }
