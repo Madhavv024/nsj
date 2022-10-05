@@ -277,6 +277,18 @@ h2
 }
 
 .subsimg {
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
    width: 30%;
 }
 
@@ -370,3 +382,7 @@ position: relative; left:7%;
 
 .foot {text-align: center;}
 
+
+
+.snapimg {width: auto;
+   max-width: 100%;}
