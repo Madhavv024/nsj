@@ -18,7 +18,7 @@ hr {background-color: none;
         width: 100%;
     }
 
-     h1:hover{background-color: aquamarine;}
+     h1:hover{background-color: rgb(212, 251, 238);}
     
 
 img{ 
@@ -100,7 +100,7 @@ body {
     
     height: 30%;
     width: 100%;
- background-color:#f0f2b6;
+ 
  border-style: ridge;
  border-width: 0px ;
  border-color: darkgreen;
@@ -113,7 +113,7 @@ margin: 0%;
     
     height: 0px;
     width: 100%;
- background-color:#e4f9f5;
+
  border-style: ridge;
  border-width: 0px ;
  border-color: darkgreen;
@@ -126,7 +126,7 @@ margin: 0%;
  .centerone {
     height: 100%;
     width: 100%;
-    background-color: lightyellow;
+    
 
    
   ;
@@ -138,15 +138,11 @@ margin: 0%;
 margin-top: 0%;
 margin-bottom: 0%;
 width: 100%;
-background-color: #f0f2b6;
+background-color:  #e4f9f5;
+padding: 5% 0% 5% 0% ;
 }
 
 
-.me:hover{
-    background-color: #e4f9f5;
-    
-
-}
 
 
 
@@ -156,15 +152,14 @@ background-color: #f0f2b6;
     margin-top: 5%;
     
     margin-bottom: 0%;
-    width: 90%;
+    width: 100%;
     font-style: italic;
    
     
  }
 
 table {
-    
-     text-align: center;
+   text-align: center;
 width: 80%;
 height: 100%;
 padding: 0%;
@@ -186,10 +181,12 @@ padding: 0%;
 margin-right:0% ;
 width: 90%;
 
-
+ 
 
 }
+.maintab:hover 
 
+{background-color: rgb(230, 255, 247);}
 
 
 .hilight {
@@ -202,8 +199,9 @@ border-radius: 6%;
 
 .mecenter{
 
-   background-color:lightyellow;
+   background-color: #e4f9f5;
    margin: 0%;
+   padding: 7% 0% 7% 0%;
 }
 
 
@@ -225,7 +223,7 @@ margin: 0%;
    
    height: 100%;
    width: 100%;
-background-color:#9cd3d8;
+background-color: white;
 border-style: ridge;
 border-width: 0px ;
 border-color: darkgreen;
@@ -239,7 +237,7 @@ h2
 }
 
 .bottom {
-   background-color:rgb(250, 255, 238);
+   background-color:#f2f2f2;
 }
 
 .subsimg {
