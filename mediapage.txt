@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/styles.css">
+    <title> intract on social media </title>
+</head>
+<body>
+    <div class="top">
+        <h1 class="me">Intract with me on Social Media</h1>
+      
+        <br>
+        <br>
+
+        <img class="illustrations2" src="shares.pic/social.svg" alt="">
+
+        <br>
+        <br>
+
+        <center>
+        <p class="ibottom" >
+
+         if you want get me in touch with you on social media then you can send me friend request on instagram, nowdays i am very active on instagram so if you are intrested then we can discuss some querries of any topic on instagram. I will be very happy to get in touch with you. 
+
+           
+        </p>
+
+        <br>
+        <br>
+
+    
+       
+
+        <table cellpadding="12" class="maintab3">
+
+        <tr>
+            
+            <td>
+                <strong>
+                  
+              <p  >
+                click OR Scan 
+
+
+                          <br>
+                          <br>
+                          <br>
+
+
+                          <a class="btn" href="https://www.snapchat.com/add/nsjaryal2222?share_id=mXODx00Rdyk&locale=en-GB">SNAPCHAT</a>
+                 </p>
+                
+                
+                
+     
+
+        
+                
+                  </strong>
+                </td>
+            
+                <td><img class="snapimg" src="shares.pic/snap2.jpg">
+                
+                </td>
+
+     <br>
+     <br>
+
+     
+
+
+    </tr>
+
+          </table>
+
+
+
+
+      <br>
+      <br>
+      <br>
+      <br>
+
+      
+
+
+      <table cellpadding="12" class="maintab3">
+        <tr>
+            <td>
+                <img class="instaimg" src="shares.pic/insta.png">
+
+
+
+            </td>
+
+            <td>
+
+               <center>
+                <strong>
+                    <p>
+                       click OR Scan 
+                    </p>
+                </strong>
+                
+                   <br>
+                   <a class="btn" href="https://www.instagram.com/_nishant.jaryal?r=nametag" >INSTAGRAM</a>
+               </center>
+                
+               
+            </td>
+        </tr>
+
+            </table>
+
+      <br>
+      <br>
+
+
+
+     
+
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </center>
+
+
+
+
+
+   
+
+
+    <br>
+    <br>
+       
+        <br>
+
+    </div>
+
+    <div class="bottom">
+
+        <center>
+   
+        
+            <h3>GET IN TOUCH</h3>
+        
+        <p> you can contact me at nishantjaryal24@gmail.com</P>
+       
+         <br>
+         <br>
+         
+         <a class="btn" href="mailto:nishantjaryal24@gmail.com" >  MAIL ME </a>
+                 
+         <br>
+         <br>
+    
+    
+        </center>
+        <center>
+        
+        
+            <br>
+           <br>
+    
+    
+            <p> <strong> made by nishant jaryal </strong> </p>
+        
+            
+        
+        </center>
+        
+        <br>
+          
+        <br>
+    </div>
+    
+    
+</body>
+</html>
