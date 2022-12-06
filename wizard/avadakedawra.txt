@@ -1,0 +1,655 @@
+
+
+
+
+
+* { font-family:  'Trebuchet MS', Arial, sans-serif  ; 
+                   margin: 0%;}
+
+
+
+hr 
+
+
+ {background-color: none;
+    border-style: dashed none none;
+    border-width: 10px ;
+    border-color:white;
+    height: 0px;
+    width: 50%;
+    margin-top: 2%;
+    }
+
+
+    hr:hover {width: 50%;}
+    
+
+
+    h1 {
+        background-color: #ff5500;
+        color: whitesmoke;
+        border-radius: 0%;
+        text-align: center;
+        width: 100%;
+    }
+
+
+
+
+
+
+    .as-bgimg { width:100%;
+                margin: 0%;
+    }
+    
+    
+
+img { 
+width:80%;
+border-radius:11%;
+border-width: 0px;
+border-style:solid;
+border-color:white}
+
+
+body {
+
+    background-color: white;
+    text-align: center;
+   width: 100%;
+    margin: 0%;
+
+}
+
+
+
+    form {
+
+        border-style: none;
+        border-color: lightcoral;
+        border-width: 5px;
+        border-radius: 5%;
+        background-color:#e4f9f5;
+        width: 80%;
+    }
+ p {
+    text-align: center;
+    width: 92%;
+    color:black;
+    line-height: 2
+
+ }
+
+
+
+
+nav  { 
+       background-color: white;
+       padding: 2%;
+      padding-bottom: 1%;
+      text-align: left;
+   }
+
+
+
+
+
+.nav { overflow: hidden;
+      
+       }
+
+      .nav-a {
+         text-align: center;
+        
+         color: #ff5500;
+         font-weight: 700;
+         padding: 1% 3% 1% 3% ;
+         background-color: white;
+            border-style: solid ;
+            border-width: 2px ;
+            border-radius:0px;
+            margin-top: 0px;
+            overflow: hidden;
+           
+         margin:1%;
+       
+      }
+
+      .nav-a:hover {
+         color: white;
+         background-color: #ff5500;
+         text-decoration: underline;
+         transition: 0.4s ;
+      }
+
+
+      .tabnav {
+         padding-bottom: 2em;
+         padding-top: 2em;
+      }
+
+
+a   { color: white;
+       text-decoration: none;
+       overflow: hidden;}
+
+
+       button {background-color: #fca311;
+               width : 5.5rem;
+                height : 3rem;
+               margin:1%;
+               border-radius:10px;
+               border-style: none;}
+
+
+               button:hover {background-color: #f7ca27;}
+
+
+ ul {
+    width:80%;
+    text-align: left;
+    color: white;
+ }
+
+ .mainul {
+
+  width:90%;
+  text-align: left;
+  color: darkgreen;
+  margin: 4%;
+  padding-right: 7%;
+padding-top: 1%;
+padding-bottom: 1%;
+
+
+
+ }
+
+ li { margin-right: 5%;}
+
+
+
+
+ .btn {
+   -webkit-border-radius: 28;
+   -moz-border-radius: 28;
+   border-radius: 280px;
+   -webkit-box-shadow: 0px 0px 30px #fca311;
+   -moz-box-shadow: 0px 0px 30px #fca311;
+   box-shadow: 0px 0px 30px #fca311;
+   font-family: Arial;
+   color: whitesmoke;
+   font-size: 15px;
+   background: #fca311;
+   padding: 20px 20px 20px 20px;
+   text-decoration: none;
+   font-weight: bolder;
+   border-style: none;
+   margin: 2%;
+   overflow: hidden;
+   
+   
+ }
+ 
+ .btn:hover {
+   background: #f18701;
+   text-decoration: none;
+   font-weight: bolder;
+ }
+
+
+
+
+
+ .top{
+    
+ 
+   width: 100%;
+
+border-style: ridge;
+background-color: #14213d;
+border-width: 0px ;
+border-color: darkgreen;
+padding: 0%;
+margin: 0%;
+
+}
+
+.toptop{
+   
+
+   width: 100%;
+
+border-style: ridge;
+background-color: white;
+border-width: 0px ;
+border-color: black;
+padding: 0%;
+margin: 0%;
+
+}
+
+ .toppest {
+    
+    height: 0px;
+    width: 100%;
+
+ border-style: ridge;
+ border-width: 0px ;
+ border-color: darkgreen;
+ padding: 1px;
+margin: 0%;
+
+ }
+
+
+ .centerone {
+   
+    width: 100%;
+    
+
+   
+  ;
+
+ }
+
+ .me {
+
+
+text-align:center;
+
+   font-size: 250% ;
+
+margin-bottom: 5px;
+width: 100%;
+background-color: #ff5500;
+color: whitesmoke;
+text-decoration:underline;
+padding:2% 0% 2% 0% ;
+
+
+}
+
+
+.me-P1{
+
+   text-align: left;
+
+   text-decoration: underline;
+
+   font-size: 100% ;
+
+   margin:1%;
+   
+   width: 90%;
+
+   color: black;
+
+}
+.me-P2{
+   font-size: 100% ;
+   margin:1%;
+   text-align: left;
+   width: 90%;
+
+   color: black;
+
+}
+
+
+
+ .ibottom {
+    color: whitesmoke;
+    margin-top: 5%;
+    
+    margin-bottom: 0%;
+    width: 95%;
+    font-style: italic;
+    line-height: 2;
+   
+    
+ }
+
+table {
+ 
+width: 90%;
+height: 100%;
+padding: 0%;
+border-style: solid;
+border-width: 0px;
+border-color: darkolivegreen;
+border-radius: 10px;
+background-color: #f2f2f2;
+overflow: hidden;
+}
+
+td  {text-align: center;
+     margin: 0% 3% 0% 3%;
+     padding: 2%;
+     }
+
+
+
+
+.maintab
+{
+border-style: none;
+border-radius: 10px;
+background-color:whitesmoke;
+padding-right: 5%;
+padding-top: 5%;
+padding-bottom: 3%;
+margin-right:0% ;
+width: 95%;
+line-height: 2;
+
+ 
+
+}
+.maintab:hover 
+
+{background-color: white;}
+
+
+
+.maintab2
+{
+border-style: none;
+border-radius: 0%;
+background-color:white;
+padding-left: 10%;
+padding-top: 5%;
+padding-bottom: 5%;
+margin-right:0% ;
+width: 95%;
+line-height: 2;
+ 
+ 
+}
+
+.maintab3 {border-style: none;
+   border-radius: 10px;
+   background-color:whitesmoke;
+
+   border-style: dashed;
+   border-width: 0px;
+  
+   margin-right:0% ;
+   width: 95%;
+   line-height: 1.5;
+   max-width: 25rem;}
+
+
+
+   .maintab4 
+
+      {border-style: none;
+         border-radius: 10px;
+         background-color:whitesmoke;
+      
+         border-style: dashed;
+         border-width: 0px;
+        
+         padding: 2%;
+         margin-right:0% ;
+         width: 95%;
+         line-height: 1.5;
+         max-width: 15rem;
+         text-align: center;}
+      
+
+   
+.maintab5 {border-style: none;
+   border-radius: 10px;
+   background-color:whitesmoke;
+
+   border-style: dashed;
+   border-width: 0px;
+   
+
+
+   padding: 2%;
+   margin-right:0% ;
+   width: 95%;
+   line-height: 1.5;
+   max-width: 25rem;}
+
+
+
+.hilight {
+
+background-color: #64faff;
+border-radius: 6%;
+
+
+}
+
+.mecenter{
+
+   background-color: #fca311;
+   margin: 0%;
+   padding: 7% 0% 7% 0%;
+}
+
+
+.centertwo{
+ 
+   width: 100%;
+background-color:#14213d;
+border-style: ridge;
+border-width: 0px ;
+border-color: none;
+padding: 0px;
+margin: 0%;
+}
+
+
+
+
+
+
+.illustrations2 {
+
+   border-radius: 0px;
+   border-width: 0px;
+
+  width: 95%;
+  max-width: 20em;
+
+}
+
+
+
+
+
+
+.centerthree{
+   
+   height: 100%;
+   width: 100%;
+background-color: white;
+border-style: ridge;
+border-width: 0px ;
+border-color: darkgreen;
+padding: 1px;
+margin: 0%;
+}
+
+h2 
+{   
+     text-align: center;
+     text-decoration: underline;
+   color: black;
+}
+
+
+
+
+h3 {background-color: #fca311;
+    color: whitesmoke;
+    
+   padding: 3%;
+   font-size:2em;
+   max-height: 5%;}
+   
+
+
+.ibottom2  { color: whitesmoke;
+    text-align: left;
+
+    font-weight: bold;
+
+    line-height: 2;
+
+
+}
+
+
+
+
+
+
+
+h4     
+
+{
+   color: white;
+   background-color: #f18701;
+   text-align: center;
+  padding: 1%;
+  border-radius: 0%;
+  width: 15em;
+  height: 1.5rem;
+
+}
+
+
+
+
+
+
+
+
+ .instaimg
+
+ { width: 100%;
+   max-width: 12rem;
+margin: 7% 9% 5% 5%;
+
+ }
+
+ 
+.myimg  { width: auto;
+   max-width: 70%;
+   margin-top: 5%;
+margin-left: 7%;
+margin-right: 0%;
+border-radius: 20%;
+position: relative; left:7%;
+}
+
+
+
+.foot {text-align: center;}
+
+.snapimg {width: 100%;
+   max-width: 12rem;
+    margin: 7% 0% 0% 5%;
+   position:relative;
+
+   right: 0.9rem}
+
+
+
+
+     
+
+
+
+
+
+
+         .tpimg1  {
+
+
+            border-radius:32% 68% 53% 47% / 30% 37% 63% 70% ;
+         border-style: none ;
+         min-width: 6em;
+         width: 20%;
+         max-width: 25em;
+        
+         margin-left: 10%;   
+         margin-right: 6%;
+         margin-top: 3%;
+         margin-bottom: 3%;
+        
+         float:left
+         
+
+         }
+
+
+
+
+.tpimg2   
+              {
+
+
+   border-radius:32% 68% 53% 47% / 30% 37% 63% 70%  ;
+border-style: none ;
+width: 22%;
+max-width: 25em;
+
+margin-left: 10%;   
+margin-right: 5%;
+margin-top: 3%;
+margin-bottom: 3%;
+
+float:left
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+         mark {padding: 0.5% 2% 0.5% 2%;
+               margin-bottom: 5%;
+
+               background-color: #fca311;
+               border-radius: 5rem;}
+
+ 
+   .foottable  { border-style: none ;
+                background-color: #14213d;}
+
+                
+                
+.illustrations    {border-radius: 0px;
+   border-width: 0px;
+  
+  width: 95%;
+  max-width: 25em;
+                  } 
+                  
+                  
+
+  
+.dev {border-radius: 0px;
+   border-width: 0px;
+  
+  width: 95%;
+  max-width: 25em;}
+
+
+.whitebg {background-color: #fca311;}   
+
